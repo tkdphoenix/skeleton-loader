@@ -1,5 +1,7 @@
 # Skeleton Loader
 
+![example image](./exampleImage.gif)
+
 Displays a skeleton loader that is configurable for a variable number of lines, and an optional round image. This can be modified with pull requests to inlude more scenarios.
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
